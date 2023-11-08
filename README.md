@@ -28,7 +28,7 @@
 - Pianism
 
 ## Resume 
--[My resume](file:///C:/Users/hp/Downloads/HS23176560_K.P.T.%20Silva.pdf)
+-(file:///C:/Users/hp/Downloads/HS23176560_K.P.T.%20Silva.pdf)
 
 ## Contact details
 - pamudithaveesha@gmail.com
